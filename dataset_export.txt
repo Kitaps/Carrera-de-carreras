@@ -1,0 +1,881 @@
+'administracion de empresas', 'cft andres bello', 6.1, 450000, 695000
+'computacion e informatica', 'cft andres bello', 7, 350000, 735000
+'prevencion de riesgos', 'cft andres bello', 6.7, 450000, 735000
+'tecnico en enfermeria', 'cft barros arana', 7.6, 350000, 1000000
+'administracion comercial', 'cft camara de comercio de santiago', 6.2, 650000, 1080532
+'administracion en comercio exterior', 'cft camara de comercio de santiago', 6.5, 650000, 1080532
+'tecnico en educacion parvularia y nivel basico', 'cft de enac', 7.3, 250000, 780000
+'tecnico en enfermeria', 'cft de enac', 6.8, 450000, 1120000
+'tecnico en trabajo social', 'cft de enac', 7, 350000, 810000
+'tecnico juridico', 'cft de enac', 10.8, 450000, 790000
+'tecnico asistencia juridico', 'cft de tarapaca', 7, 450000, 1193000
+'secretariado computacional', 'cft diego portales', 7.5, 350000, 750000
+'asistente tecnico del educador de parvulos', 'cft diego portales', 7.2, 250000, 750000
+'asistente del educador diferencial', 'cft diego portales', 6.3, 350000, 750000
+'gastronomia y cocina internacional', 'cft diego portales', 9, 350000, 1137400
+'administracion de empresas', 'cft duoc uc', 6.8, 650000, 1235000
+'administracion de recursos humanos', 'cft duoc uc', 6.4, 550000, 1235000
+'administracion financiera y bancaria', 'cft duoc uc', 6.3, 650000, 1250000
+'comercio exterior', 'cft duoc uc', 6.4, 550000, 1250000
+'contabilidad general mencion legislacion tributaria', 'cft duoc uc', 6.6, 650000, 1210000
+'gastronomia', 'cft duoc uc', 7.6, 350000, 1700000
+'administracion hotelera. turismo de aventura. turismo tecnico mencion en empresas turisticas', 'cft duoc uc', 7.3, 450000, 1380000
+'tecnico en educacion parvularia', 'cft educap', 6.1, 250000, 682000
+'prevencion de riesgos', 'cft escuela superior de administracion de negocios del norte esane', 6.8, 750000, 912000
+'interprete ingles-castellano', 'cft escuela de interpretes inceni', 8.8, 550000, 999000
+'servicios gastronomicos hoteleros y de restaurante', 'cft fontanar', 7.1, 350000, 1136667
+'tecnico en educacion parvularia', 'cft icel', 6.3, 250000, 589000
+'mecanica automotriz', 'cft icel', 6.7, 450000, 789000
+'tecnologia agricola y pecuaria', 'cft inacap', 6.9, 550000, 1393083
+'tecnico en odontologia', 'cft inacap', 5.7, 350000, 1343500
+'administracion de empresas', 'cft inacap', 6.8, 650000, 1386866
+'soporte computacional', 'cft inacap', 7.5, 650000, 1183333
+'tecnologia industrial de los alimentos', 'cft inacap', 6.9, 450000, 1325000
+'analista programador', 'cft inacap', 8.5, 750000, 1410396
+'comercio exterior', 'cft inacap', 7.2, 550000, 1290200
+'tecnico en construccion y edificacion', 'cft inacap', 6.2, 550000, 1414905
+'contabilidad general', 'cft inacap', 7, 650000, 1369389
+'preparador fisico', 'cft inacap', 7.3, 450000, 1170000
+'dibujo de proyectos de arquitectura e ingenieria', 'cft inacap', 5.9, 550000, 1138429
+'dibujo tecnico industrial', 'cft inacap', 6.3, 750000, 1187000
+'electricidad industrial mencion', 'cft inacap', 7.7, 650000, 1393333
+'electronica industrial', 'cft inacap', 7.3, 750000, 1384000
+'tecnico en enfermeria', 'cft inacap', 6.5, 350000, 1370591
+'gastronomia internacional', 'cft inacap', 7.3, 350000, 1580306
+'gestion y control de calidad', 'cft inacap', 7.1, 550000, 1222667
+'automatizacion y control industrial', 'cft inacap', 7.2, 750000, 1398800
+'laboratorista clinico. banco de sangre e imagenologia', 'cft inacap', 6.2, 350000, 1302286
+'mantenimiento industrial', 'cft inacap', 6.9, 750000, 1430000
+'mecanica automotriz', 'cft inacap', 7.6, 650000, 1445283
+'prevencion de riesgos', 'cft inacap', 7.5, 850000, 1402050
+'tecnologia en analisis quimico', 'cft inacap', 7.7, 550000, 1269200
+'refrigeracion y climatizacion', 'cft inacap', 6.8, 650000, 1545600
+'topografia', 'cft inacap', 7.7, 950000, 1277167
+'tecnico en hoteles y restaurantes. y turismo con menciones', 'cft inacap', 7.1, 450000, 1409300
+'asistente juridico', 'cft inacap', 7.3, 450000, 1130833
+'secretariado ejecutivo biling\xfce', 'cft instituto de secretariado insec', 7.1, 450000, 682800
+'secretariado ejecutivo gerencial', 'cft instituto de secretariado insec', 6.5, 350000, 682800
+'tecnico juridico', 'cft instituto superior de estudios juridicos canon', 6.8, 550000, 800000
+'tecnico en enfermeria', 'cft javiera carrera', 6, 350000, 1072500
+'topografia', 'cft juan bohon', 6.8, 1050000, 850000
+'administracion de empresas', 'cft la araucana', 6.6, 550000, 806625
+'secretariado ejecutivo computacional', 'cft los leones', 7.1, 350000, 510000
+'turismo', 'cft los leones', 7.5, 450000, 582000
+'laboratorista dental', 'cft los leones', 6.4, 350000, 912000
+'administracion de redes y soporte computacional', 'cft lota-arauco', 8.2, 350000, 1026000
+'administracion publica', 'cft lota-arauco', 6.7, 350000, 1026000
+'mecanica industrial', 'cft lota-arauco', 7.4, 450000, 1026000
+'prevencion de riesgos', 'cft lota-arauco', 7.8, 650000, 1026000
+'tecnico en construccion', 'cft massachusetts', 7.1, 450000, 599500
+'tecnico juridico', 'cft massachusetts', 7.8, 350000, 599500
+'tecnico en obras civiles', 'cft san agustin de talca', 8.2, 550000, 1200000
+'agente de ventas mencion visitador medico', 'cft santo tomas', 7.3, 550000, 1093667
+'tecnico agricola', 'cft santo tomas', 7.4, 450000, 1062800
+'tecnico en educacion especial', 'cft santo tomas', 6.5, 250000, 975609
+'higienista dental y tecnico en odontologia', 'cft santo tomas', 6.6, 350000, 1182600
+'tecnico en construcciones civiles', 'cft santo tomas', 7.5, 550000, 1075278
+'preparador fisico y tecnico en deporte', 'cft santo tomas', 7, 350000, 1112444
+'tecnico en enfermeria', 'cft santo tomas', 6.8, 350000, 1333886
+'gastronomia y cocina internacional y tradicional chilena', 'cft santo tomas', 7.1, 350000, 1301211
+'prevencion de riesgos', 'cft santo tomas', 6.9, 650000, 1108176
+'tecnico en analisis quimico', 'cft santo tomas', 7.4, 550000, 1071800
+'topografia', 'cft santo tomas', 7, 550000, 1037750
+'tecnico juridico', 'cft santo tomas', 7, 450000, 957923
+'laboratorista dental', 'cft santo tomas', 7.5, 350000, 1207778
+'secretariado ejecutivo biling\xfce', 'cft simon bolivar', 6.9, 350000, 514000
+'administracion de empresas', 'cft simon bolivar', 7, 550000, 494000
+'analisis de sistemas', 'cft simon bolivar', 9.5, 550000, 624000
+'comercio exterior', 'cft simon bolivar', 6.8, 450000, 514000
+'programacion y diseño informatico', 'cft simon bolivar', 7.7, 450000, 624000
+'contabilidad', 'cft simon bolivar', 7, 550000, 514000
+'control industrial', 'cft simon bolivar', 7.4, 450000, 604000
+'turismo y hoteleria', 'cft simon bolivar', 6.3, 450000, 514000
+'tecnico juridico', 'cft simon bolivar', 7.5, 450000, 554000
+'tecnico de nivel superior en enfermeria', 'cft uvalpo', 6.2, 350000, 1200000
+'auditoria', 'ip aiep', 10.2, 650000, 1130476
+'ingenieria de ejecucion en informatica', 'ip aiep', 10.4, 850000, 1158667
+'ingenieria de ejecucion en sonido', 'ip aiep', 12.7, 550000, 1275000
+'tecnico en administracion de la produccion agropecuaria y agronindustrial', 'ip aiep', 6.2, 350000, 1131250
+'asistente de parvulo', 'ip aiep', 6.2, 350000, 974000
+'tecnico en odontologia', 'ip aiep', 6.1, 350000, 1209259
+'tecnico en administracion y gestion  de empresas', 'ip aiep', 6.3, 550000, 1119858
+'programacion y analisis de sistemas', 'ip aiep', 9.3, 450000, 1076585
+'programacion computacional', 'ip aiep', 6.6, 450000, 1123750
+'tecnico en construccion', 'ip aiep', 6.6, 550000, 1065385
+'contabilidad general', 'ip aiep', 6.3, 450000, 1104063
+'tecnico deportivo y personal trainer', 'ip aiep', 6.3, 350000, 1095652
+'dibujo de arquitectura y obras civiles', 'ip aiep', 7.3, 450000, 1108889
+'tecnico en diseño de vestuario', 'ip aiep', 7.3, 350000, 1430000
+'diseño grafico', 'ip aiep', 6.8, 350000, 1150000
+'tecnico en enfermeria menciones', 'ip aiep', 6.1, 350000, 1333942
+'prevencion de riesgos', 'ip aiep', 6.3, 650000, 1101224
+'comunicacion y relaciones publicas', 'ip aiep', 6.6, 550000, 1148000
+'tecnico en trabajo social', 'ip aiep', 6.4, 450000, 1033043
+'tecnico en sonido', 'ip aiep', 7.3, 450000, 1315000
+'topografia', 'ip aiep', 6.9, 850000, 1223750
+'tecnico juridico', 'ip aiep', 6.6, 450000, 1019286
+'construccion y administracion de redes analogicas y digitales', 'ip ciisa', 7.7, 850000, 1126080
+'ingenieria en administracion de empresas', 'ip de chile', 11.1, 650000, 928333
+'auditoria', 'ip de chile', 15.7, 750000, 899200
+'ingenieria en informatica y gestion informatica', 'ip de chile', 11.7, 950000, 1040000
+'pedagogia en educacion general basica', 'ip de chile', 9.8, 450000, 1099000
+'pedagogia en educacion parvularia', 'ip de chile', 10, 450000, 1104000
+'psicopedagogia', 'ip de chile', 10.3, 550000, 1043333
+'preparacion fisica y tecnico en deportes', 'ip de chile', 7.9, 450000, 961143
+'asistente juridico', 'ip de chile', 7, 450000, 870667
+'construccion civil (continuidad)', 'ip del valle central', 11.4, 850000, 1279116
+'educacion parvularia', 'ip del valle central', 10, 450000, 1040600
+'pedagogia en historia y geografia', 'ip del valle central', 13, 550000, 1031667
+'pedagogia en ingles', 'ip del valle central', 12.6, 550000, 1058477
+'tecnico en enfermeria', 'ip del valle central', 7.1, 350000, 1027789
+'tecnico de nivel superior en prevencion de riesgos', 'ip del valle central', 8.6, 650000, 866575
+'tecnico de nivel superior en trabajo social', 'ip del valle central', 7.5, 350000, 747162
+'ingenieria en administracion de empresas', 'ip diego portales', 11.2, 550000, 641250
+'contador auditor', 'ip diego portales', 11, 550000, 566000
+'ingenieria en computacion e informatica', 'ip diego portales', 11.4, 550000, 750000
+'ingenieria en prevencion de riesgos', 'ip diego portales', 10.9, 750000, 705714
+'educacion parvularia', 'ip diego portales', 9.1, 450000, 840000
+'tecnico en prevencion de riesgos', 'ip diego portales', 7.6, 550000, 775000
+'servicio social', 'ip diego portales', 10, 550000, 770000
+'ingenieria de ejecucion en administracion', 'ip dr. virginio gomez g.', 9.9, 650000, 1258000
+'auditoria', 'ip dr. virginio gomez g.', 9.6, 650000, 1258000
+'ingenieria de ejecucion en computacion e informatica', 'ip dr. virginio gomez g.', 11.9, 650000, 1292000
+'ingenieria en construccion', 'ip dr. virginio gomez g.', 11.5, 850000, 1353667
+'ingenieria de ejecucion electronica', 'ip dr. virginio gomez g.', 11.1, 950000, 1486000
+'ingenieria de ejecucion en prevencion de riesgos', 'ip dr. virginio gomez g.', 9.5, 650000, 1291000
+'ingenieria de ejecucion mecanica', 'ip dr. virginio gomez g.', 12.3, 850000, 1486000
+'tecnico en administracion', 'ip dr. virginio gomez g.', 6, 550000, 1105000
+'tecnico en computacion e informatica', 'ip dr. virginio gomez g.', 6.1, 450000, 1105000
+'tecnico en electromecanica', 'ip dr. virginio gomez g.', 5.8, 650000, 1198500
+'tecnico en instrumentacion y control', 'ip dr. virginio gomez g.', 6.1, 650000, 1198500
+'tecnico operador de plantas industriales', 'ip dr. virginio gomez g.', 5.2, 550000, 1139000
+'tecnico laboratorista dental', 'ip dr. virginio gomez g.', 6.7, 450000, 1122000
+'actuacion', 'ip duoc uc', 11.1, 550000, 2265000
+'ingenieria en administracion', 'ip duoc uc', 9.7, 750000, 1724615
+'ecoturismo', 'ip duoc uc', 10.3, 550000, 2002500
+'comunicacion audiovisual', 'ip duoc uc', 11.1, 550000, 2183333
+'auditoria', 'ip duoc uc', 10.3, 850000, 1620000
+'diseño de vestuario', 'ip duoc uc', 11.6, 650000, 1815000
+'diseño grafico', 'ip duoc uc', 11.5, 450000, 1835000
+'diseño industrial', 'ip duoc uc', 14.8, 550000, 1762500
+'ingenieria agricola', 'ip duoc uc', 11.8, 550000, 1805000
+'ingenieria en negocios internacionales', 'ip duoc uc', 9.6, 750000, 1745000
+'ingenieria en informatica', 'ip duoc uc', 12.4, 1050000, 1794762
+'ingenieria en conectividad y redes', 'ip duoc uc', 11.1, 1050000, 1795000
+'ingenieria en construccion', 'ip duoc uc', 11.1, 950000, 1803000
+'ingenieria en mecanica automotriz y autotronica', 'ip duoc uc', 11.6, 1050000, 1755000
+'ingenieria en medio ambiente', 'ip duoc uc', 10.6, 750000, 1805000
+'ingenieria en prevencion de riesgos', 'ip duoc uc', 9.8, 850000, 1684667
+'publicidad', 'ip duoc uc', 9.9, 550000, 1938000
+'relaciones publicas mencion marketing', 'ip duoc uc', 10.4, 550000, 1846667
+'tecnico agricola', 'ip duoc uc', 9.5, 450000, 1363333
+'administracion de empresas', 'ip duoc uc', 6.7, 550000, 1213846
+'administracion de recursos humanos', 'ip duoc uc', 6.7, 650000, 1233846
+'administracion de redes computacionales', 'ip duoc uc', 7.4, 650000, 1332857
+'administracion financiera', 'ip duoc uc', 6.7, 550000, 1214615
+'analista programador computacional', 'ip duoc uc', 7.6, 750000, 1352667
+'tecnico audiovisual', 'ip duoc uc', 7.2, 450000, 1516667
+'tecnico en construccion', 'ip duoc uc', 7.9, 550000, 1258333
+'contabilidad general mencion legislacion tributaria', 'ip duoc uc', 7, 550000, 1202727
+'dibujo arquitectonico y estructural', 'ip duoc uc', 8.1, 550000, 1237500
+'tecnico en electricidad y electronica y tecnico en instalaciones electricas', 'ip duoc uc', 7.5, 650000, 1260000
+'tecnico de enfermeria', 'ip duoc uc', 6.6, 350000, 1310000
+'tecnico de laboratorio clinico y banco de sangre', 'ip duoc uc', 6.7, 350000, 1310000
+'tecnico en mecanica automotriz y autotronica', 'ip duoc uc', 7.8, 650000, 1280000
+'tecnico de radiodiagnostico y radioterapia', 'ip duoc uc', 6.9, 350000, 1285000
+'tecnico topografo', 'ip duoc uc', 8.4, 750000, 1280000
+'turismo tecnico mencion. administracion hotelera y turismo de aventura', 'ip duoc uc', 7.4, 450000, 1187500
+'interpretacion de enlace ingles-castellano', 'ip eatri instituto profesional', 6.2, 450000, 882000
+'traductor e interprete', 'ip eatri instituto profesional', 9.9, 650000, 1892571
+'contador auditor', 'ip escuela de contadores auditores de santiago', 14.8, 950000, 1443500
+'interprete instrumental y especialista en arreglos instrumentales', 'ip escuela moderna de musica', 11.7, 750000, 2821222
+'contador auditor', 'ip esucomex', 12.4, 850000, 982800
+'administracion gastronomica internacional', 'ip inacap', 10.7, 550000, 1642600
+'administracion de empresas turisticas y administracion hoteles y restaurantes', 'ip inacap', 10.5, 550000, 1549800
+'construccion civil', 'ip inacap', 10.8, 950000, 1404467
+'contador auditor', 'ip inacap', 11.3, 750000, 1355435
+'diseño de vestuario', 'ip inacap', 10.6, 550000, 1648500
+'diseño grafico profesional', 'ip inacap', 11, 550000, 1486000
+'ingenieria agricola', 'ip inacap', 10.3, 650000, 1453000
+'ingenieria en administracion industrial', 'ip inacap', 9.8, 850000, 1389000
+'ingenieria en negocios internacionales', 'ip inacap', 11.8, 750000, 1544000
+'ingenieria en conectividad y redes', 'ip inacap', 11, 1150000, 1548818
+'ingenieria en construccion', 'ip inacap', 11.8, 950000, 1449111
+'ingenieria en maquinaria y vehiculos automotrices', 'ip inacap', 11.1, 850000, 1431810
+'ingenieria en minas', 'ip inacap', 11, 1550000, 1381471
+'ingenieria en prevencion de riesgos. calidad y ambiente', 'ip inacap', 9.9, 950000, 1398182
+'ingenieria en quimica industrial', 'ip inacap', 11.8, 850000, 1481000
+'publicidad', 'ip inacap', 10.4, 550000, 1566000
+'servicio social', 'ip inacap', 9.3, 550000, 1361667
+'tecnico financiero y tecnico en gestion de servicios financieros', 'ip instituto de estudios bancarios guillermo subercaseaux', 6.5, 750000, 1325000
+'ingenieria en gestion de empresas', 'ip la araucana', 10.6, 750000, 1036100
+'contador auditor', 'ip la araucana', 10.6, 850000, 1049455
+'ingenieria en computacion e informatica', 'ip la araucana', 10.6, 950000, 1063100
+'ingenieria en prevencion de riesgos', 'ip la araucana', 10.3, 850000, 1028714
+'ingenieria en gestion de recursos humanos', 'ip la araucana', 10.1, 750000, 1085857
+'asistente de educacion parvularia y basica', 'ip la araucana', 6.5, 250000, 791933
+'servicio social', 'ip la araucana', 8, 550000, 1023227
+'educacion general basica', 'ip libertador de los andes', 9.5, 450000, 1584000
+'diseño grafico publicitario', 'ip los leones', 10.5, 350000, 1092000
+'fotografia periodistica y publicitaria profesional', 'ip los leones', 11.3, 350000, 1074000
+'educacion parvularia', 'ip los leones', 11, 450000, 948000
+'psicopedagogia', 'ip los leones', 11.5, 550000, 978000
+'publicidad', 'ip los leones', 11.3, 450000, 1044000
+'servicio social', 'ip los leones', 10.6, 450000, 1008000
+'pedagogia en educacion general basica mencion lenguaje y matematicas', 'ip providencia', 9.9, 450000, 1300857
+'educacion parvularia mencion lenguaje y ciencias', 'ip providencia', 9.6, 450000, 1211750
+'educacion diferencial mencion deficiencia mental', 'ip providencia', 9.4, 550000, 1293250
+'tecnico de enfermeria', 'ip providencia', 6.8, 350000, 1197667
+'tecnico juridico de nivel superior', 'ip providencia', 7.9, 350000, 887000
+'comunicacion audiovisual', 'ip santo tomas', 10.5, 550000, 1548000
+'ingenieria de ejecucion en informatica', 'ip santo tomas', 11.8, 650000, 1217261
+'ingenieria de ejecucion en sonido', 'ip santo tomas', 11.5, 450000, 1397667
+'analista programador', 'ip santo tomas', 7.1, 450000, 947875
+'tecnico en plataformas y sistemas informaticos', 'ip santo tomas', 8, 450000, 981333
+'tecnico en comunicacion audiovisual digital', 'ip santo tomas', 7.6, 450000, 1316000
+'tecnico en diseño publicitario multimedial', 'ip santo tomas', 7.5, 350000, 1131200
+'tecnico en trabajo social', 'ip santo tomas', 6.6, 350000, 1000267
+'tecnico en sonido', 'ip santo tomas', 8.4, 350000, 1185500
+'tecnico en turismo', 'ip santo tomas', 7.2, 450000, 961500
+'servicio social', 'ip santo tomas', 10.4, 550000, 1161600
+'actuacion teatral', 'pontificia universidad catolica de chile', 10.1, 550000, 3264000
+'agronomia', 'pontificia universidad catolica de chile', 13.8, 1050000, 4100000
+'arquitectura', 'pontificia universidad catolica de chile', 16.6, 1150000, 4610000
+'licenciatura en arte', 'pontificia universidad catolica de chile', 10.6, 650000, 3738000
+'construccion civil', 'pontificia universidad catolica de chile', 13, 1450000, 4100000
+'derecho', 'pontificia universidad catolica de chile', 14.6, 1850000, 4212000
+'diseño', 'pontificia universidad catolica de chile', 11.6, 850000, 4100000
+'enfermeria', 'pontificia universidad catolica de chile', 11.9, 1050000, 3396000
+'geografia', 'pontificia universidad catolica de chile', 13.8, 950000, 2876000
+'licenciatura en historia', 'pontificia universidad catolica de chile', 9.3, 650000, 2876000
+'ingenieria civil', 'pontificia universidad catolica de chile', 15, 1950000, 5161000
+'ingenieria comercial', 'pontificia universidad catolica de chile', 12.3, 1950000, 4794000
+'licenciatura en letras', 'pontificia universidad catolica de chile', 10.3, 650000, 2876000
+'matematica/estadistica', 'pontificia universidad catolica de chile', 12.8, 1150000, 2876000
+'medicina', 'pontificia universidad catolica de chile', 15.3, 2600000, 5385000
+'pedagogia en educacion general basica', 'pontificia universidad catolica de chile', 11.3, 550000, 2667000
+'educacion parvularia', 'pontificia universidad catolica de chile', 11.3, 450000, 2667000
+'periodismo', 'pontificia universidad catolica de chile', 11.3, 950000, 4100000
+'psicologia', 'pontificia universidad catolica de chile', 11.6, 950000, 4212000
+'quimica y farmacia', 'pontificia universidad catolica de chile', 15.4, 1150000, 3264000
+'sociologia', 'pontificia universidad catolica de chile', 11.8, 1050000, 3814000
+'trabajo social', 'pontificia universidad catolica de chile', 10.6, 750000, 3264000
+'agronomia', 'pontificia universidad catolica de valparaiso', 14.2, 1050000, 3341000
+'arquitectura', 'pontificia universidad catolica de valparaiso', 15.9, 750000, 3341000
+'contador auditor', 'pontificia universidad catolica de valparaiso', 17.5, 1050000, 2508000
+'derecho', 'pontificia universidad catolica de valparaiso', 19.3, 1550000, 3375000
+'ingenieria civil bioquimica', 'pontificia universidad catolica de valparaiso', 16.2, 1150000, 3042000
+'ingenieria civil electrica', 'pontificia universidad catolica de valparaiso', 20, 1850000, 3042000
+'ingenieria civil electronica', 'pontificia universidad catolica de valparaiso', 18.7, 1650000, 3042000
+'ingenieria civil industrial', 'pontificia universidad catolica de valparaiso', 16.8, 1550000, 3375000
+'ingenieria civil mecanica', 'pontificia universidad catolica de valparaiso', 21.4, 2600000, 3042000
+'ingenieria civil quimica', 'pontificia universidad catolica de valparaiso', 19.4, 1650000, 3042000
+'ingenieria comercial', 'pontificia universidad catolica de valparaiso', 14.6, 1350000, 3375000
+'ingenieria de ejecucion en bioprocesos', 'pontificia universidad catolica de valparaiso', 12, 750000, 2381000
+'ingenieria de ejecucion en informatica', 'pontificia universidad catolica de valparaiso', 13.9, 1250000, 2405000
+'ingenieria en construccion', 'pontificia universidad catolica de valparaiso', 16.8, 1250000, 3042000
+'ingenieria de transporte', 'pontificia universidad catolica de valparaiso', 14.8, 1250000, 2405000
+'kinesiologia', 'pontificia universidad catolica de valparaiso', 15.3, 850000, 3341000
+'pedagogia en musica y/o licenciatura en ciencias y artes musicales', 'pontificia universidad catolica de valparaiso', 11.9, 450000, 1852000
+'pedagogia en castellano y/o licenciatura en lengua y literatura hispanica', 'pontificia universidad catolica de valparaiso', 12.9, 550000, 1873000
+'pedagogia educacion basica', 'pontificia universidad catolica de valparaiso', 11.7, 550000, 1825000
+'educacion parvularia', 'pontificia universidad catolica de valparaiso', 10.3, 550000, 1825000
+'educacion diferencial mencion trastornos del aprendizaje especifico', 'pontificia universidad catolica de valparaiso', 13.2, 550000, 1968000
+'pedagogia en educacion fisica', 'pontificia universidad catolica de valparaiso', 12.6, 550000, 1873000
+'pedagogia en matematicas y/o licenciatura en matematicas', 'pontificia universidad catolica de valparaiso', 12, 650000, 1873000
+'periodismo', 'pontificia universidad catolica de valparaiso', 14, 850000, 2812000
+'psicologia', 'pontificia universidad catolica de valparaiso', 16.5, 850000, 3341000
+'trabajo social', 'pontificia universidad catolica de valparaiso', 14.5, 650000, 1968000
+'interpretacion o traduccion ingles-español', 'pontificia universidad catolica de valparaiso', 13.8, 550000, 2381000
+'pedagogia en educacion basica', 'universidad academia de humanismo cristiano', 14.8, 550000, 1750000
+'pedagogia en historia y ciencias sociales', 'universidad academia de humanismo cristiano', 12.7, 550000, 1675000
+'psicologia', 'universidad academia de humanismo cristiano', 14.4, 750000, 2145000
+'trabajo social', 'universidad academia de humanismo cristiano', 16.2, 650000, 1645000
+'derecho', 'universidad adolfo ibañez', 14.7, 1450000, 3895210
+'ingenieria civil industrial', 'universidad adolfo ibañez', 14.6, 1850000, 4124340
+'ingenieria comercial', 'universidad adolfo ibañez', 12.6, 1750000, 4353470
+'psicologia', 'universidad adolfo ibañez', 12.4, 950000, 3895210
+'pedagogia en educacion general basica', 'universidad adventista de chile', 11.2, 450000, 1731600
+'tecnico de nivel superior en enfermeria', 'universidad adventista de chile', 4.7, 350000, 1086800
+'psicologia', 'universidad alberto hurtado', 12.3, 750000, 3520000
+'sociologia', 'universidad alberto hurtado', 11.7, 850000, 3195000
+'ingenieria de ejecucion en administracion de empresas', 'universidad arturo prat', 9.4, 850000, 1276667
+'contador publico y auditor', 'universidad arturo prat', 17.4, 850000, 1625138
+'enfermeria', 'universidad arturo prat', 13.9, 1050000, 1821581
+'ingenieria civil industrial', 'universidad arturo prat', 17.7, 1450000, 2381141
+'ingenieria comercial', 'universidad arturo prat', 11.9, 950000, 1483759
+'pedagogia en educacion basica', 'universidad arturo prat', 12.3, 450000, 1468950
+'educacion parvularia', 'universidad arturo prat', 12.6, 450000, 1537433
+'tecnico de nivel superior prevencion de riesgos', 'universidad arturo prat', 7.3, 750000, 1028909
+'trabajo social', 'universidad arturo prat', 13.5, 650000, 1501872
+'administracion de empresas de turismo', 'universidad austral de chile', 14.4, 650000, 1951000
+'agronomia', 'universidad austral de chile', 17.3, 1050000, 3017000
+'arquitectura', 'universidad austral de chile', 17.3, 950000, 3134000
+'licenciatura en ciencias biologicas', 'universidad austral de chile', 12.3, 450000, 1799000
+'biologia marina', 'universidad austral de chile', 18, 550000, 2409000
+'auditoria', 'universidad austral de chile', 13.7, 850000, 2228000
+'derecho', 'universidad austral de chile', 16.8, 1350000, 2825000
+'enfermeria', 'universidad austral de chile', 13.4, 1150000, 2825000
+'ingenieria civil en informatica', 'universidad austral de chile', 18, 1350000, 2825000
+'ingenieria civil en obras civiles', 'universidad austral de chile', 18.2, 1550000, 2825000
+'ingenieria comercial', 'universidad austral de chile', 14, 1050000, 2825000
+'ingenieria en alimentos', 'universidad austral de chile', 18.2, 750000, 2434000
+'ingenieria en construccion', 'universidad austral de chile', 17.1, 1050000, 2665000
+'ingenieria forestal', 'universidad austral de chile', 20.4, 650000, 2652000
+'medicina', 'universidad austral de chile', 14.8, 2600000, 3998000
+'medicina veterinaria', 'universidad austral de chile', 16.5, 950000, 3198000
+'obstetricia y puericultura', 'universidad austral de chile', 12.8, 850000, 2825000
+'pedagogia en lenguaje y comunicacion', 'universidad austral de chile', 10.3, 550000, 2025000
+'periodismo', 'universidad austral de chile', 17.6, 750000, 2409000
+'quimica y farmacia', 'universidad austral de chile', 19.5, 1150000, 2825000
+'tecnologia medica', 'universidad austral de chile', 15.1, 850000, 2825000
+'pedagogia en educacion basica', 'universidad autonoma de chile', 9.7, 450000, 1790933
+'pedagogia en educacion parvularia', 'universidad autonoma de chile', 9.8, 450000, 1769413
+'pedagogia en historia. geografia y ciencias sociales', 'universidad autonoma de chile', 11.9, 450000, 1741822
+'pedagogia en ingles', 'universidad autonoma de chile', 11.6, 550000, 1939027
+'trabajo social', 'universidad autonoma de chile', 9.9, 650000, 1743617
+'ingenieria de ejecucion en prevencion de riesgos y medio ambiente', "universidad bernardo o'higgins", 12.5, 850000, 1649000
+'relaciones publicas', "universidad bernardo o'higgins", 11.6, 650000, 1608000
+'derecho', 'universidad bolivariana', 18, 950000, 1790000
+'trabajo social', 'universidad bolivariana', 10.7, 550000, 1198889
+'biologia marina', 'universidad catolica de la santisima concepcion', 14.9, 650000, 2150000
+'contador auditor', 'universidad catolica de la santisima concepcion', 12.5, 850000, 1950000
+'licenciatura en derecho *', 'universidad catolica de la santisima concepcion', 18.9, 1150000, 2650000
+'licenciatura en enfermeria', 'universidad catolica de la santisima concepcion', 10.7, 1050000, 2850000
+'ingenieria civil informatica', 'universidad catolica de la santisima concepcion', 17.7, 1350000, 2500000
+'ingenieria civil industrial', 'universidad catolica de la santisima concepcion', 19.6, 1050000, 2550000
+'ingenieria comercial', 'universidad catolica de la santisima concepcion', 13.8, 950000, 2470000
+'licenciatura en medicina', 'universidad catolica de la santisima concepcion', 14.7, 2600000, 4590000
+'pedagogia en educacion basica', 'universidad catolica de la santisima concepcion', 9.8, 550000, 1570000
+'educacion de parvulos', 'universidad catolica de la santisima concepcion', 9.9, 450000, 1800000
+'pedagogia media en religion y moral', 'universidad catolica de la santisima concepcion', 13.8, 650000, 1465000
+'periodismo', 'universidad catolica de la santisima concepcion', 13.6, 750000, 2280000
+'trabajo social', 'universidad catolica de la santisima concepcion', 12.5, 550000, 1800000
+'agronomia', 'universidad catolica de temuco', 14.6, 850000, 2545000
+'derecho', 'universidad catolica de temuco', 15.6, 1050000, 3050000
+'medicina veterinaria', 'universidad catolica de temuco', 17.4, 850000, 3275000
+'pedagogia media en ciencias naturales y biologia', 'universidad catolica de temuco', 13.4, 550000, 1927000
+'pedagogia en educacion basica', 'universidad catolica de temuco', 11.4, 550000, 1927000
+'educacion de parvulos', 'universidad catolica de temuco', 11.6, 550000, 1927000
+'pedagogia en educacion diferencial', 'universidad catolica de temuco', 10.4, 650000, 1927000
+'pedagogia en ingles', 'universidad catolica de temuco', 11.8, 650000, 2248000
+'pedagogia media en matematica', 'universidad catolica de temuco', 13, 650000, 1927000
+'trabajo social', 'universidad catolica de temuco', 12.2, 650000, 1927000
+'agronomia', 'universidad catolica del maule', 21.4, 850000, 2520000
+'auditoria', 'universidad catolica del maule', 14.1, 750000, 1656000
+'enfermeria', 'universidad catolica del maule', 14.2, 1050000, 2640000
+'ingenieria civil informatica', 'universidad catolica del maule', 16.9, 1050000, 2700000
+'ingenieria en construccion', 'universidad catolica del maule', 17, 950000, 2640000
+'kinesiologia', 'universidad catolica del maule', 14.9, 950000, 2640000
+'pedagogia en educacion general basica', 'universidad catolica del maule', 11.3, 550000, 1870000
+'pedagogia en educacion parvularia', 'universidad catolica del maule', 9.4, 550000, 1870000
+'pedagogia en educacion especial', 'universidad catolica del maule', 10.7, 650000, 1920000
+'pedagogia en educacion fisica con mencion', 'universidad catolica del maule', 12.2, 550000, 1920000
+'pedagogia en religion y filosofia', 'universidad catolica del maule', 11.7, 550000, 1870000
+'psicologia', 'universidad catolica del maule', 12.8, 650000, 2530000
+'trabajo social', 'universidad catolica del maule', 13.4, 650000, 1960000
+'arquitectura', 'universidad catolica del norte', 19.4, 1050000, 2812000
+'contador auditor/contador publico', 'universidad catolica del norte', 13, 1050000, 2316000
+'derecho', 'universidad catolica del norte', 17.2, 1450000, 2812000
+'ingenieria civil industrial', 'universidad catolica del norte', 19.5, 1850000, 2712000
+'ingenieria comercial', 'universidad catolica del norte', 13.4, 1250000, 2812000
+'ingenieria de ejecucion en computacion e informatica', 'universidad catolica del norte', 18.1, 1150000, 2316000
+'ingenieria en construccion', 'universidad catolica del norte', 14.7, 1450000, 2551000
+'ingenieria en prevencion de riesgos y medioambiente', 'universidad catolica del norte', 12.8, 1250000, 2551000
+'periodismo', 'universidad catolica del norte', 13.3, 850000, 2551000
+'psicologia', 'universidad catolica del norte', 13.3, 850000, 2551000
+'quimica y farmacia', 'universidad catolica del norte', 16.9, 1350000, 2812000
+'ingenieria comercial', 'universidad catolica cardenal silva henriquez', 12.7, 1050000, 2086600
+'pedagogia en castellano', 'universidad catolica cardenal silva henriquez', 11.7, 550000, 2206800
+'pedagogia en educacion basica', 'universidad catolica cardenal silva henriquez', 9.6, 550000, 2206800
+'educacion parvularia', 'universidad catolica cardenal silva henriquez', 9.6, 450000, 2121900
+'pedagogia en educacion diferencial', 'universidad catolica cardenal silva henriquez', 10.5, 550000, 2206800
+'pedagogia en educacion fisica', 'universidad catolica cardenal silva henriquez', 11.8, 550000, 2363600
+'pedagogia en historia y geografia', 'universidad catolica cardenal silva henriquez', 12.6, 550000, 2206800
+'pedagogia en ingles', 'universidad catolica cardenal silva henriquez', 11.6, 550000, 2329400
+'pedagogia en matematicas e informatica educativa', 'universidad catolica cardenal silva henriquez', 11.5, 650000, 2206800
+'sociologia', 'universidad catolica cardenal silva henriquez', 11.6, 650000, 2206800
+'trabajo social', 'universidad catolica cardenal silva henriquez', 10.5, 650000, 2175000
+'ingenieria de ejecucion en administracion de negocios', 'universidad central de chile', 11.5, 1050000, 2321667
+'administracion publica', 'universidad central de chile', 12.3, 1150000, 2814000
+'arquitectura', 'universidad central de chile', 19.6, 950000, 3851000
+'derecho', 'universidad central de chile', 18.4, 1350000, 2797500
+'ingenieria civil en computacion e informatica', 'universidad central de chile', 17.1, 1650000, 3434000
+'ingenieria civil en obras civiles', 'universidad central de chile', 17.8, 1650000, 3487000
+'ingenieria comercial', 'universidad central de chile', 12.4, 1350000, 3497000
+'ingenieria en construccion', 'universidad central de chile', 15.2, 1250000, 2851375
+'educacion general basica', 'universidad central de chile', 9.7, 550000, 2128000
+'educacion parvularia', 'universidad central de chile', 10.6, 450000, 2128000
+'psicologia', 'universidad central de chile', 11.8, 850000, 2914500
+'pedagogia en educacion basica', 'universidad de aconcagua', 10.8, 450000, 1499238
+'tecnico nivel superior en prevencion de riesgos y medio ambiente', 'universidad de aconcagua', 8.2, 850000, 1062117
+'enfermeria', 'universidad de antofagasta', 15.6, 1150000, 2797000
+'ingenieria civil industrial', 'universidad de antofagasta', 20.2, 1950000, 2787000
+'kinesiologia', 'universidad de antofagasta', 14.2, 850000, 2770000
+'medicina', 'universidad de antofagasta', 16.5, 2600000, 4377000
+'obstetricia y puericultura', 'universidad de antofagasta', 13, 850000, 2762000
+'odontologia', 'universidad de antofagasta', 18.7, 1650000, 4266000
+'pedagogia en educacion general basica', 'universidad de antofagasta', 10, 550000, 2065000
+'educacion parvularia', 'universidad de antofagasta', 11.2, 550000, 2016000
+'tecnologia medica', 'universidad de antofagasta', 15.2, 850000, 2906000
+'trabajo y servicio social', 'universidad de antofagasta', 13.3, 750000, 2016000
+'arte y cultura visual y bellas artes', 'universidad de arte y ciencias sociales arcis', 14.2, 550000, 3289000
+'educacion general basica', 'universidad de arte y ciencias sociales arcis', 12.5, 450000, 1749000
+'periodismo y comunicacion social', 'universidad de arte y ciencias sociales arcis', 17.3, 650000, 2126000
+'psicologia', 'universidad de arte y ciencias sociales arcis', 16, 750000, 2486000
+'trabajo social', 'universidad de arte y ciencias sociales arcis', 17, 650000, 1980000
+'comunicacion audiovisual y/o multimedia', 'universidad de artes. ciencias y comunicacion (uniacc)', 14, 750000, 3475000
+'publicidad', 'universidad de artes. ciencias y comunicacion (uniacc)', 12.8, 750000, 3600000
+'ingenieria civil industrial', 'universidad de atacama', 20.6, 1250000, 2412250
+'pedagogia en educacion general basica con mencion', 'universidad de atacama', 11.2, 550000, 1980000
+'pedagogia en educacion parvularia', 'universidad de atacama', 10.5, 550000, 1980000
+'pedagogia en educacion fisica', 'universidad de atacama', 13.2, 550000, 1980000
+'administracion publica', 'universidad de chile', 12.4, 1350000, 2634400
+'ingenieria agronomica', 'universidad de chile', 16.6, 950000, 3430200
+'arquitectura', 'universidad de chile', 16.1, 950000, 3123000
+'licenciatura en artes', 'universidad de chile', 14.2, 550000, 2219300
+'contador auditor', 'universidad de chile', 14.7, 1350000, 3685000
+'derecho', 'universidad de chile', 18.8, 1750000, 3578200
+'diseño. menciones diseño grafico y diseño industrial', 'universidad de chile', 15.4, 750000, 3123000
+'enfermeria', 'universidad de chile', 11.7, 1150000, 3107400
+'licenciatura en filosofia', 'universidad de chile', 10.7, 450000, 2222600
+'fonoaudiologia', 'universidad de chile', 12, 950000, 3205400
+'geografia', 'universidad de chile', 16.7, 950000, 2601000
+'geologia', 'universidad de chile', 17.3, 2600000, 4369600
+'licenciatura en historia', 'universidad de chile', 12, 550000, 2222600
+'ingenieria civil electricista', 'universidad de chile', 15.6, 1850000, 4369600
+'ingenieria civil en computacion', 'universidad de chile', 14.7, 1650000, 4369600
+'ingenieria civil en minas', 'universidad de chile', 14.2, 2600000, 4369600
+'ingenieria civil industrial', 'universidad de chile', 14, 2600000, 4369600
+'ingenieria civil', 'universidad de chile', 13.1, 1850000, 4369600
+'ingenieria comercial', 'universidad de chile', 11.9, 1850000, 4187100
+'ingenieria en alimentos', 'universidad de chile', 18.9, 950000, 3178700
+'ingenieria en recursos naturales renovables', 'universidad de chile', 15.1, 1050000, 3430200
+'ingenieria forestal', 'universidad de chile', 16.7, 950000, 3430200
+'kinesiologia', 'universidad de chile', 11.8, 1050000, 3194300
+'licenciatura en lengua y literatura', 'universidad de chile', 11, 650000, 2222600
+'medicina', 'universidad de chile', 15.1, 2600000, 4605500
+'medicina veterinaria', 'universidad de chile', 17.1, 950000, 3325600
+'nutricion y dietetica', 'universidad de chile', 11.7, 850000, 3107400
+'obstetricia y puericultura', 'universidad de chile', 11.6, 950000, 3107400
+'odontologia', 'universidad de chile', 14.7, 1350000, 4605500
+'educacion parvularia y basica inicial', 'universidad de chile', 12.8, 550000, 2623200
+'periodismo', 'universidad de chile', 12.8, 850000, 2724600
+'psicologia', 'universidad de chile', 14.6, 950000, 2623200
+'quimica y farmacia', 'universidad de chile', 16.1, 1150000, 3178700
+'licenciatura en ciencias mencion quimica y quimica', 'universidad de chile', 14, 750000, 2937150
+'tecnologia medica con mencion', 'universidad de chile', 11.7, 1150000, 3384500
+'terapia ocupacional', 'universidad de chile', 12.1, 750000, 3107400
+'agronomia', 'universidad de concepcion', 19.8, 850000, 2550000
+'arquitectura', 'universidad de concepcion', 18.5, 850000, 2622000
+'biologia marina', 'universidad de concepcion', 14.6, 550000, 2348000
+'ciencias politicas y administrativas', 'universidad de concepcion', 13.8, 850000, 1707000
+'auditoria', 'universidad de concepcion', 12, 750000, 1775000
+'derecho', 'universidad de concepcion', 18.2, 1750000, 2868000
+'enfermeria', 'universidad de concepcion', 11.2, 1050000, 2244000
+'fonoaudiologia', 'universidad de concepcion', 12, 1050000, 2569000
+'ingenieria agroindustrial', 'universidad de concepcion', 13.8, 550000, 2502000
+'ingenieria civil electronica', 'universidad de concepcion', 16.7, 1550000, 2922000
+'ingenieria civil informatica', 'universidad de concepcion', 16.8, 1350000, 2922000
+'ingenieria civil industrial', 'universidad de concepcion', 14, 1450000, 2922000
+'ingenieria civil mecanica', 'universidad de concepcion', 15.2, 2600000, 2922000
+'ingenieria civil metalurgica', 'universidad de concepcion', 17.6, 2600000, 2922000
+'ingenieria civil quimica', 'universidad de concepcion', 16.2, 1750000, 2922000
+'ingenieria civil', 'universidad de concepcion', 15.2, 1650000, 2922000
+'ingenieria comercial', 'universidad de concepcion', 12.9, 1150000, 2922000
+'ingenieria en geomensura y cartografia', 'universidad de concepcion', 13.3, 950000, 2815000
+'ingenieria forestal', 'universidad de concepcion', 20, 750000, 2737000
+'medicina', 'universidad de concepcion', 15.4, 2600000, 4506000
+'medicina veterinaria', 'universidad de concepcion', 17.1, 850000, 3339000
+'nutricion y dietetica', 'universidad de concepcion', 12.4, 850000, 1757000
+'obstetricia y puericultura', 'universidad de concepcion', 11.2, 850000, 2204000
+'odontologia', 'universidad de concepcion', 12.6, 1450000, 4506000
+'pedagogia en artes plasticas y educacion musical', 'universidad de concepcion', 13.2, 550000, 1518000
+'pedagogia en español', 'universidad de concepcion', 12.9, 550000, 1518000
+'pedagogia en ciencias naturales', 'universidad de concepcion', 13.9, 550000, 1518000
+'educacion general basica', 'universidad de concepcion', 11.5, 550000, 1576000
+'educacion parvularia', 'universidad de concepcion', 12.2, 550000, 1576000
+'educacion diferencial', 'universidad de concepcion', 11.5, 650000, 1518000
+'pedagogia en educacion fisica', 'universidad de concepcion', 11.8, 550000, 1518000
+'pedagogia en filosofia', 'universidad de concepcion', 14.6, 550000, 1518000
+'pedagogia en historia y geografia', 'universidad de concepcion', 13, 550000, 1518000
+'pedagogia en ingles', 'universidad de concepcion', 13.5, 650000, 1518000
+'pedagogia en matematica. fisica.  computacion y educacion tecnologica', 'universidad de concepcion', 14.5, 650000, 1518000
+'periodismo', 'universidad de concepcion', 12.3, 650000, 2348000
+'psicologia', 'universidad de concepcion', 11.5, 750000, 2457000
+'quimica y farmacia', 'universidad de concepcion', 16, 1150000, 2672000
+'sociologia', 'universidad de concepcion', 15.3, 750000, 2105000
+'tecnologia medica', 'universidad de concepcion', 11.9, 1050000, 3267000
+'trabajo social', 'universidad de concepcion', 12.6, 650000, 1726000
+'traduccion/interpretacion en idiomas extranjeros', 'universidad de concepcion', 14.6, 550000, 2457000
+'agronomia', 'universidad de la frontera', 12.9, 850000, 2365000
+'contador publico y contador auditor', 'universidad de la frontera', 13.7, 750000, 1924000
+'enfermeria', 'universidad de la frontera', 10.4, 1050000, 2439000
+'ingenieria civil electronica', 'universidad de la frontera', 16.9, 1450000, 2387000
+'ingenieria civil industrial mencion', 'universidad de la frontera', 14, 1250000, 2387000
+'ingenieria comercial', 'universidad de la frontera', 12.9, 1050000, 2602000
+'ingenieria en alimentos', 'universidad de la frontera', 12.5, 750000, 2128000
+'ingenieria informatica', 'universidad de la frontera', 12.8, 950000, 2062000
+'ingenieria en construccion', 'universidad de la frontera', 13.6, 950000, 2128000
+'ingenieria electrica', 'universidad de la frontera', 14.9, 1150000, 2009000
+'ingenieria ambiental', 'universidad de la frontera', 15.5, 950000, 2009000
+'ingenieria mecanica', 'universidad de la frontera', 15, 950000, 2062000
+'kinesiologia', 'universidad de la frontera', 11.2, 850000, 2439000
+'medicina', 'universidad de la frontera', 14.6, 2600000, 3881000
+'nutricion y dietetica', 'universidad de la frontera', 11.3, 750000, 2439000
+'obstetricia y puericultura', 'universidad de la frontera', 10.8, 850000, 2439000
+'odontologia', 'universidad de la frontera', 13.1, 1550000, 3881000
+'pedagogia en castellano y comunicacion', 'universidad de la frontera', 10.9, 550000, 1525000
+'pedagogia en educacion fisica. deportes y recreacion', 'universidad de la frontera', 11.6, 650000, 1525000
+'pedagogia en historia y geografia y educacion civica', 'universidad de la frontera', 11.5, 550000, 1525000
+'periodismo', 'universidad de la frontera', 11.3, 650000, 2155000
+'psicologia', 'universidad de la frontera', 11, 750000, 2287000
+'sociologia', 'universidad de la frontera', 12.1, 650000, 2155000
+'tecnologia medica', 'universidad de la frontera', 12.4, 850000, 2439000
+'trabajo social', 'universidad de la frontera', 10.6, 650000, 1753000
+'administracion turistica', 'universidad de la serena', 16.4, 550000, 1626000
+'quimico laboratorista', 'universidad de la serena', 15.5, 850000, 2201000
+'arquitectura', 'universidad de la serena', 20.4, 950000, 2485000
+'auditoria', 'universidad de la serena', 13.5, 850000, 1731000
+'enfermeria', 'universidad de la serena', 15.1, 1050000, 2306000
+'ingenieria civil industrial', 'universidad de la serena', 18.8, 1250000, 2485000
+'ingenieria civil', 'universidad de la serena', 20.5, 1550000, 2485000
+'ingenieria comercial', 'universidad de la serena', 14.2, 950000, 2485000
+'ingenieria en construccion', 'universidad de la serena', 16.6, 1050000, 2433000
+'pedagogia en eduacion musical', 'universidad de la serena', 13.3, 550000, 1626000
+'pedagogia en castellano y filosofia', 'universidad de la serena', 11.7, 550000, 1626000
+'pedagogia en biologia. quimica y ciencias naturales', 'universidad de la serena', 14, 550000, 1626000
+'pedagogia en educacion general basica', 'universidad de la serena', 9.4, 450000, 1626000
+'educacion parvularia', 'universidad de la serena', 11.5, 550000, 1632000
+'pedagogia en educacion diferencial', 'universidad de la serena', 11.5, 650000, 1626000
+'pedagogia en historia y geografia', 'universidad de la serena', 12.4, 550000, 1626000
+'pedagogia en ingles', 'universidad de la serena', 12.9, 550000, 1626000
+'pedagogia en matematica. fisica y computacion', 'universidad de la serena', 15.2, 550000, 1626000
+'psicologia', 'universidad de la serena', 13.3, 750000, 2454000
+'ingenieria de ejecucion en administracion de empresas', 'universidad de las americas', 12.3, 1050000, 1912667
+'agronomia', 'universidad de las americas', 18.2, 650000, 2759750
+'arquitectura', 'universidad de las americas', 17.5, 850000, 2751833
+'contador auditor', 'universidad de las americas', 12.1, 850000, 1669286
+'derecho', 'universidad de las americas', 17.1, 1150000, 2767893
+'ingenieria civil industrial', 'universidad de las americas', 18.1, 1350000, 2662591
+'ingenieria comercial', 'universidad de las americas', 13.9, 1150000, 2540571
+'ingenieria de ejecucion en informatica', 'universidad de las americas', 13.4, 1050000, 1834364
+'ingenieria de ejecucion industrial', 'universidad de las americas', 13, 950000, 1950350
+'medicina veterinaria', 'universidad de las americas', 17.2, 750000, 2877313
+'pedagogia en educacion basica', 'universidad de las americas', 10.7, 450000, 1835400
+'educacion parvularia', 'universidad de las americas', 10.5, 450000, 1786000
+'pedagogia en educacion fisica', 'universidad de las americas', 12.7, 550000, 2421769
+'periodismo', 'universidad de las americas', 14.8, 550000, 2332250
+'psicologia', 'universidad de las americas', 14.4, 650000, 2778071
+'psicopedagogia', 'universidad de las americas', 9.6, 550000, 1833500
+'publicidad', 'universidad de las americas', 12.8, 650000, 2185000
+'relaciones publicas', 'universidad de las americas', 10.4, 750000, 2047250
+'tecnico de nivel superior en administracion de empresas y gestion de ventas', 'universidad de las americas', 5.9, 650000, 1285000
+'tecnico en computacion', 'universidad de las americas', 8.1, 650000, 1303202
+'administracion de servicios', 'universidad de los andes', 10.3, 1050000, 4124342
+'derecho', 'universidad de los andes', 13.2, 1550000, 4124342
+'enfermeria', 'universidad de los andes', 12.6, 1150000, 3299473
+'ingenieria civil industrial', 'universidad de los andes', 15.8, 2600000, 4124342
+'ingenieria comercial', 'universidad de los andes', 11.6, 1750000, 4353472
+'medicina', 'universidad de los andes', 14.1, 1550000, 5728253
+'periodismo', 'universidad de los andes', 12.3, 950000, 4009777
+'psicologia', 'universidad de los andes', 13.1, 950000, 4124342
+'educacion general basica mencion ingles', 'universidad de los lagos', 10, 450000, 1560250
+'educacion parvularia', 'universidad de los lagos', 9.8, 450000, 1500000
+'pedagogia en educacion media mencion educacion fisica', 'universidad de los lagos', 12.3, 550000, 1698000
+'pedagogia en educacion media en historia y geografia', 'universidad de los lagos', 12.3, 550000, 1583000
+'tecnico en educacion parvularia', 'universidad de los lagos', 7, 350000, 787400
+'tecnico en informatica', 'universidad de los lagos', 9.7, 550000, 866286
+'trabajo social', 'universidad de los lagos', 11.9, 650000, 1574000
+'enfermeria', 'universidad de magallanes', 12, 950000, 2727000
+'ingenieria comercial', 'universidad de magallanes', 16.3, 850000, 3158000
+'ingenieria en construccion', 'universidad de magallanes', 13.2, 1050000, 2727000
+'pedagogia en ingles para ensenanza basica y media', 'universidad de magallanes', 11.4, 350000, 2141000
+'pedagogia en educacion fisica', 'universidad de magallanes', 13.4, 450000, 2141000
+'kinesiologia', 'universidad de playa ancha de ciencias de la educacion', 11.7, 950000, 2341800
+'pedagogia en artes plasticas y educacion musical', 'universidad de playa ancha de ciencias de la educacion', 14.4, 450000, 1663900
+'pedagogia en castellano', 'universidad de playa ancha de ciencias de la educacion', 13.8, 550000, 1646200
+'pedagogia en ciencias', 'universidad de playa ancha de ciencias de la educacion', 14.8, 550000, 1646200
+'pedagogia en educacion basica', 'universidad de playa ancha de ciencias de la educacion', 12.5, 450000, 1646200
+'educacion parvularia', 'universidad de playa ancha de ciencias de la educacion', 12.7, 450000, 1646200
+'pedagogia en educacion diferencial', 'universidad de playa ancha de ciencias de la educacion', 12, 550000, 1646200
+'pedagogia en educacion fisica', 'universidad de playa ancha de ciencias de la educacion', 12.2, 550000, 1646200
+'pedagogia en educacion tecnologica', 'universidad de playa ancha de ciencias de la educacion', 11.6, 450000, 1646200
+'pedagogia en historia y geografia', 'universidad de playa ancha de ciencias de la educacion', 12.8, 550000, 1646200
+'pedagogia en ingles', 'universidad de playa ancha de ciencias de la educacion', 14.3, 550000, 1646200
+'pedagogia en matematica y computacion', 'universidad de playa ancha de ciencias de la educacion', 15.3, 650000, 1646200
+'periodismo', 'universidad de playa ancha de ciencias de la educacion', 13.5, 750000, 2270900
+'terapia ocupacional', 'universidad de playa ancha de ciencias de la educacion', 13.2, 750000, 2144604
+'traduccion e interpretacion ingles-español', 'universidad de playa ancha de ciencias de la educacion', 15.2, 450000, 1945300
+'administracion publica', 'universidad de santiago de chile', 12.7, 1150000, 2520270
+'arquitectura', 'universidad de santiago de chile', 14.9, 850000, 3047940
+'bioquimica y licenciatura en bioquimica', 'universidad de santiago de chile', 13.2, 650000, 2564270
+'contador publico y auditor', 'universidad de santiago de chile', 13.5, 1250000, 2660380
+'enfermeria', 'universidad de santiago de chile', 11.6, 1150000, 2565830
+'ingenieria civil en electricidad', 'universidad de santiago de chile', 18.2, 1850000, 3470970
+'ingenieria civil en informatica', 'universidad de santiago de chile', 17.5, 1450000, 3470970
+'ingenieria civil en minas', 'universidad de santiago de chile', 19.1, 2600000, 3470970
+'ingenieria civil en obras civiles', 'universidad de santiago de chile', 16.6, 1650000, 3470970
+'ingenieria civil en industrias', 'universidad de santiago de chile', 15.2, 1550000, 3470970
+'ingenieria civil en mecanica', 'universidad de santiago de chile', 17.3, 1950000, 3470970
+'ingenieria comercial', 'universidad de santiago de chile', 12, 1350000, 3470970
+'ingenieria de alimentos', 'universidad de santiago de chile', 12.9, 750000, 3104300
+'ingenieria de ejecucion en computacion e informatica', 'universidad de santiago de chile', 11.2, 1350000, 2612510
+'ingenieria de ejecucion en electricidad', 'universidad de santiago de chile', 13.2, 1450000, 2612510
+'ingenieria de ejecucion en geomensura', 'universidad de santiago de chile', 13.2, 1050000, 2612510
+'ingenieria estadistica y matematica', 'universidad de santiago de chile', 15.6, 1250000, 2778305
+'ingenieria de ejecucion en ambiente y ambiental', 'universidad de santiago de chile', 14.4, 950000, 3104300
+'ingenieria de ejecucion en metalurgia y minas', 'universidad de santiago de chile', 12.9, 1850000, 2612510
+'ingenieria de ejecucion en industria', 'universidad de santiago de chile', 11.1, 1050000, 2612510
+'ingenieria de ejecucion en mecanica', 'universidad de santiago de chile', 12.6, 1350000, 2612510
+'medicina', 'universidad de santiago de chile', 15.2, 1850000, 3738640
+'obstetricia y puericultura', 'universidad de santiago de chile', 11.3, 950000, 2565830
+'periodismo', 'universidad de santiago de chile', 12.7, 750000, 2660380
+'psicologia', 'universidad de santiago de chile', 14.5, 850000, 2590760
+'publicidad', 'universidad de santiago de chile', 11.6, 650000, 2844170
+'quimica y licenciatura en quimica', 'universidad de santiago de chile', 13, 550000, 2564270
+'tecnico universitario en control industrial', 'universidad de santiago de chile', 6, 750000, 1614510
+'licenciatura en ling\xfcistica aplicada a la traduccion mencion ingles y japones o mencion ingles portugues', 'universidad de santiago de chile', 12.8, 650000, 2741470
+'agronomia', 'universidad de talca', 13.7, 950000, 2561000
+'arquitectura', 'universidad de talca', 17.3, 1050000, 3077500
+'contador publico y auditor', 'universidad de talca', 12.6, 950000, 2363350
+'derecho', 'universidad de talca', 16.5, 1350000, 2761150
+'ingenieria civil en computacion', 'universidad de talca', 18, 1450000, 2796900
+'ingenieria civil industrial', 'universidad de talca', 14.3, 1250000, 2796900
+'ingenieria comercial', 'universidad de talca', 12.5, 1050000, 2485300
+'ingenieria forestal', 'universidad de talca', 20.4, 750000, 2485300
+'odontologia', 'universidad de talca', 15.9, 1450000, 4008000
+'psicologia', 'universidad de talca', 12.6, 850000, 2796900
+'tecnologia medica', 'universidad de talca', 13.9, 950000, 2536400
+'agronomia', 'universidad de tarapaca', 16.7, 850000, 2559000
+'enfermeria', 'universidad de tarapaca', 14.8, 1050000, 2559000
+'ingenieria civil industrial', 'universidad de tarapaca', 20.5, 1250000, 2432000
+'ingenieria comercial', 'universidad de tarapaca', 17, 950000, 2559000
+'kinesiologia y rehabilitacion', 'universidad de tarapaca', 14.6, 850000, 2559000
+'obstetricia y puericultura', 'universidad de tarapaca', 12.8, 850000, 2559000
+'pedagogia en educacion basica con mencion', 'universidad de tarapaca', 11, 450000, 2070000
+'educacion parvularia y psicopedagogia', 'universidad de tarapaca', 11.9, 450000, 2070000
+'profesor de educacion fisica', 'universidad de tarapaca', 12.4, 550000, 2070000
+'pedagogia en ingles', 'universidad de tarapaca', 14, 550000, 1652500
+'psicologia', 'universidad de tarapaca', 14.2, 650000, 2559000
+'tecnologia medica', 'universidad de tarapaca', 13.8, 1250000, 2559000
+'administracion publica', 'universidad de valparaiso', 12, 950000, 1861000
+'arquitectura', 'universidad de valparaiso', 19.6, 850000, 2996000
+'auditoria', 'universidad de valparaiso', 16.2, 950000, 2036000
+'derecho', 'universidad de valparaiso', 18.8, 1550000, 2574000
+'diseño', 'universidad de valparaiso', 17.7, 550000, 2675000
+'enfermeria', 'universidad de valparaiso', 12.5, 1050000, 2328000
+'fonoaudiologia', 'universidad de valparaiso', 12.5, 850000, 2455000
+'ingenieria civil industrial', 'universidad de valparaiso', 14.9, 1350000, 2529000
+'ingenieria comercial', 'universidad de valparaiso', 13.8, 1150000, 2391000
+'ingenieria en construccion', 'universidad de valparaiso', 16.8, 1150000, 2149000
+'ingenieria ambiental', 'universidad de valparaiso', 17.6, 950000, 2274000
+'medicina', 'universidad de valparaiso', 14.9, 1850000, 4130000
+'nutricion y dietetica', 'universidad de valparaiso', 11.7, 850000, 2466000
+'obstetricia y puericultura', 'universidad de valparaiso', 11.4, 950000, 2322000
+'odontologia', 'universidad de valparaiso', 14.4, 1350000, 4178000
+'pedagogia en historia y ciencias sociales', 'universidad de valparaiso', 16.5, 550000, 1587000
+'psicologia', 'universidad de valparaiso', 13.6, 750000, 2457000
+'quimica y farmacia', 'universidad de valparaiso', 17, 1150000, 2935000
+'tecnologia medica', 'universidad de valparaiso', 13.9, 1150000, 2615000
+'trabajo social', 'universidad de valparaiso', 12.7, 650000, 1870000
+'ingenieria en administracion de empresas', 'universidad de viña del mar', 9.4, 850000, 2074800
+'arquitectura', 'universidad de viña del mar', 18.1, 850000, 2812160
+'ingenieria comercial', 'universidad de viña del mar', 12, 1150000, 2868320
+'periodismo', 'universidad de viña del mar', 13.5, 650000, 2754960
+'psicologia', 'universidad de viña del mar', 11.1, 750000, 2924480
+'tecnologia en administracion de empresas', 'universidad de viña del mar', 6.5, 550000, 1381857
+'tecnico en informatica', 'universidad de viña del mar', 10.1, 650000, 1526500
+'tecnologia en prevencion de riesgos y medio ambiente', 'universidad de viña del mar', 6.5, 650000, 1299000
+'arquitectura', 'universidad del bio-bio', 17.3, 950000, 2556000
+'contador publico y auditor', 'universidad del bio-bio', 14.1, 750000, 1887000
+'diseño grafico', 'universidad del bio-bio', 12.8, 550000, 2207000
+'enfermeria', 'universidad del bio-bio', 11.6, 1150000, 2355000
+'ingenieria civil en informatica', 'universidad del bio-bio', 12.8, 1350000, 2355000
+'ingenieria civil industrial', 'universidad del bio-bio', 15, 1250000, 2355000
+'ingenieria civil', 'universidad del bio-bio', 16.6, 1550000, 2355000
+'ingenieria comercial', 'universidad del bio-bio', 13.5, 950000, 2355000
+'ingenieria en alimentos', 'universidad del bio-bio', 14.6, 650000, 2355000
+'ingenieria de ejecucion en computacion e informatica', 'universidad del bio-bio', 13.4, 1050000, 1983000
+'ingenieria en construccion', 'universidad del bio-bio', 17.3, 1150000, 2279000
+'ingenieria de ejecucion en electricidad', 'universidad del bio-bio', 14, 1350000, 1983000
+'ingenieria de ejecucion en electronica', 'universidad del bio-bio', 14.8, 1250000, 1983000
+'ingenieria de ejecucion en mecanica', 'universidad del bio-bio', 13.3, 1150000, 1983000
+'nutricion y dietetica', 'universidad del bio-bio', 12.7, 750000, 2000000
+'pedagogia en castellano y comunicacion', 'universidad del bio-bio', 11.6, 550000, 1735000
+'pedagogia en educacion general basica', 'universidad del bio-bio', 8.9, 550000, 1735000
+'pedagogia en educacion parvularia', 'universidad del bio-bio', 8.9, 550000, 1735000
+'pedagogia en historia y geografia', 'universidad del bio-bio', 11.4, 550000, 1735000
+'pedagogia en ingles', 'universidad del bio-bio', 12.2, 650000, 1735000
+'trabajo social', 'universidad del bio-bio', 10.9, 650000, 1878000
+'arquitectura', 'universidad del desarrollo', 15.3, 1050000, 4320000
+'derecho', 'universidad del desarrollo', 18.8, 1150000, 4066000
+'enfermeria', 'universidad del desarrollo', 10.5, 1250000, 3772000
+'ingenieria civil industrial', 'universidad del desarrollo', 12.8, 1650000, 4279000
+'ingenieria comercial', 'universidad del desarrollo', 11.9, 1550000, 4347500
+'periodismo', 'universidad del desarrollo', 11.9, 750000, 3666000
+'psicologia', 'universidad del desarrollo', 12.2, 950000, 4259500
+'publicidad', 'universidad del desarrollo', 10.1, 1050000, 4595000
+'agronomia', 'universidad del mar', 13.4, 850000, 2370667
+'contador auditor', 'universidad del mar', 10.7, 850000, 2019173
+'ingenieria comercial', 'universidad del mar', 17, 950000, 2137090
+'kinesiologia', 'universidad del mar', 14.4, 850000, 2311781
+'pedagogia en educacion general basica', 'universidad del mar', 9.3, 450000, 1722344
+'pedagogia en educacion parvularia', 'universidad del mar', 10.3, 450000, 1700007
+'pedagogia en educacion diferencial', 'universidad del mar', 9.6, 550000, 1544727
+'pedagogia en educacion fisica', 'universidad del mar', 11.8, 550000, 1877917
+'pedagogia en ingles', 'universidad del mar', 12.5, 550000, 1692111
+'periodismo', 'universidad del mar', 10.6, 650000, 2195777
+'psicologia', 'universidad del mar', 14.4, 750000, 2214070
+'tecnico universitario en administracion de empresas', 'universidad del mar', 7.5, 650000, 1190381
+'tecnico universitario en enfermeria', 'universidad del mar', 6.7, 450000, 1195396
+'trabajo social', 'universidad del mar', 12.3, 650000, 1896000
+'comunicacion digital y multimedia', 'universidad del pacifico', 12.2, 850000, 3050000
+'diseño de vestuario y textil', 'universidad del pacifico', 10.5, 650000, 3820000
+'diseño grafico', 'universidad del pacifico', 12.3, 650000, 3543000
+'ingenieria comercial', 'universidad del pacifico', 10.4, 1350000, 2720000
+'pedagogia en educacion parvularia', 'universidad del pacifico', 9.9, 450000, 1880000
+'periodismo', 'universidad del pacifico', 11.4, 650000, 3650000
+'publicidad', 'universidad del pacifico', 11.2, 950000, 3820000
+'relaciones publicas', 'universidad del pacifico', 9.9, 750000, 3820000
+'trabajo social', 'universidad del pacifico', 10.3, 550000, 1828250
+'ciencia politica', 'universidad diego portales', 11.5, 950000, 3527000
+'contador auditor-contador publico', 'universidad diego portales', 12.1, 1050000, 2280000
+'derecho', 'universidad diego portales', 17.2, 1450000, 4060000
+'diseño', 'universidad diego portales', 13.3, 850000, 3832000
+'enfermeria', 'universidad diego portales', 11.4, 1050000, 3283000
+'ingenieria civil en informatica y telecomunicaciones', 'universidad diego portales', 16.8, 1450000, 3908000
+'ingenieria civil industrial', 'universidad diego portales', 14.5, 1450000, 3908000
+'ingenieria comercial', 'universidad diego portales', 13.1, 1250000, 3908000
+'ingenieria en informatica y gestion', 'universidad diego portales', 15.2, 1250000, 2223000
+'ingenieria en marketing', 'universidad diego portales', 14.2, 1350000, 2197000
+'pedagogia en educacion general basica', 'universidad diego portales', 9.3, 550000, 2388000
+'periodismo', 'universidad diego portales', 11.9, 950000, 3721000
+'psicologia', 'universidad diego portales', 11.6, 850000, 3980000
+'publicidad', 'universidad diego portales', 11.4, 850000, 3527000
+'sociologia', 'universidad diego portales', 11.7, 950000, 3396000
+'tecnologia medica', 'universidad diego portales', 14.6, 1050000, 3283000
+'arquitectura', 'universidad finis terrae', 14.7, 1150000, 3647200
+'artes visuales', 'universidad finis terrae', 12.6, 650000, 3306300
+'derecho', 'universidad finis terrae', 21, 1350000, 3218750
+'diseño', 'universidad finis terrae', 14.1, 750000, 3440400
+'ingenieria comercial', 'universidad finis terrae', 15.1, 1650000, 3064250
+'periodismo', 'universidad finis terrae', 12.3, 850000, 3069400
+'medicina veterinaria', 'universidad iberoamericana de ciencias y tecnologia (unicit)', 20.4, 650000, 2784000
+'derecho', 'universidad la republica', 19.2, 1050000, 1809900
+'pedagogia en educacion fisica', 'universidad la republica', 12, 550000, 1197847
+'kinesiologia', 'universidad metropolitana de ciencias de la educacion', 12.8, 950000, 2500000
+'pedagogia en artes visuales y musica', 'universidad metropolitana de ciencias de la educacion', 13.7, 550000, 1805000
+'pedagogia en castellano', 'universidad metropolitana de ciencias de la educacion', 14.8, 650000, 1760000
+'pedagogia en quimica. biologia y fisica', 'universidad metropolitana de ciencias de la educacion', 14.5, 650000, 1760000
+'pedagogia en educacion basica', 'universidad metropolitana de ciencias de la educacion', 11.9, 550000, 1760000
+'pedagogia en educacion parvularia con mencion', 'universidad metropolitana de ciencias de la educacion', 11.7, 550000, 1760000
+'pedagogia en educacion diferencial especialidad', 'universidad metropolitana de ciencias de la educacion', 12.2, 550000, 1760000
+'pedagogia en educacion fisica. deportes y recreacion', 'universidad metropolitana de ciencias de la educacion', 11.9, 650000, 1760000
+'pedagogia en aleman. frances e ingles', 'universidad metropolitana de ciencias de la educacion', 12.7, 650000, 1760000
+'ingenieria en administracion de empresas', 'universidad nacional andres bello', 10.8, 1050000, 2321316
+'arquitectura', 'universidad nacional andres bello', 17.3, 950000, 3502252
+'contador auditor', 'universidad nacional andres bello', 11.9, 950000, 2199914
+'derecho', 'universidad nacional andres bello', 17.9, 1250000, 3441269
+'enfermeria', 'universidad nacional andres bello', 13.3, 1150000, 3325308
+'fonoaudiologia', 'universidad nacional andres bello', 14.5, 1050000, 3782885
+'licenciatura en historia', 'universidad nacional andres bello', 10.8, 450000, 2585953
+'ingenieria civil industrial', 'universidad nacional andres bello', 14.8, 950000, 3419248
+'ingenieria civil', 'universidad nacional andres bello', 17.6, 1450000, 3426109
+'ingenieria comercial', 'universidad nacional andres bello', 11.8, 1350000, 3470490
+'ingenieria en computacion e informatica', 'universidad nacional andres bello', 12.3, 1150000, 2264682
+'ingenieria en construccion', 'universidad nacional andres bello', 16.6, 1150000, 3653086
+'ingenieria ambiental', 'universidad nacional andres bello', 15.4, 850000, 3420405
+'ingenieria industrial', 'universidad nacional andres bello', 12, 1050000, 2315454
+'kinesiologia', 'universidad nacional andres bello', 12.9, 950000, 3620979
+'medicina', 'universidad nacional andres bello', 15.1, 2600000, 5673860
+'odontologia', 'universidad nacional andres bello', 15.8, 1250000, 5580905
+'educacion musical para la educacion preescolar y basica', 'universidad nacional andres bello', 11.8, 550000, 2612949
+'educacion general basica', 'universidad nacional andres bello', 10.1, 550000, 2218411
+'educacion parvularia', 'universidad nacional andres bello', 10.2, 450000, 2296236
+'educacion fisica para la educacion general basica', 'universidad nacional andres bello', 11, 550000, 2649667
+'periodismo', 'universidad nacional andres bello', 13.7, 650000, 3866761
+'psicologia', 'universidad nacional andres bello', 14.4, 750000, 3599969
+'psicopedagogia', 'universidad nacional andres bello', 10.7, 550000, 2333932
+'quimica y farmacia', 'universidad nacional andres bello', 16.8, 1050000, 3438381
+'tecnologia medica', 'universidad nacional andres bello', 14.6, 1150000, 3424246
+'terapia ocupacional', 'universidad nacional andres bello', 12.8, 750000, 3241498
+'trabajo social', 'universidad nacional andres bello', 10, 650000, 2383074
+'psicologia', 'universidad pedro de valdivia', 12.3, 650000, 1912500
+'enfermeria', 'universidad san sebastian', 12.4, 1050000, 3227940
+'ingenieria comercial', 'universidad san sebastian', 11.5, 1050000, 3286433
+'kinesiologia', 'universidad san sebastian', 13.6, 950000, 3592820
+'medicina', 'universidad san sebastian', 16.1, 1950000, 6096167
+'nutricion y dietetica', 'universidad san sebastian', 12.4, 750000, 2876400
+'odontologia', 'universidad san sebastian', 14.4, 1350000, 5420780
+'pedagogia en educacion basica', 'universidad san sebastian', 8.9, 450000, 1811960
+'pedagogia en educacion diferencial', 'universidad san sebastian', 10.5, 550000, 1811960
+'pedagogia de educacion media en educacion fisica', 'universidad san sebastian', 10.5, 550000, 2115580
+'pedagogia de educacion media en ingles', 'universidad san sebastian', 10.9, 450000, 2250100
+'psicologia', 'universidad san sebastian', 14.3, 750000, 3269680
+'tecnologia medica', 'universidad san sebastian', 13.6, 1050000, 3489567
+'trabajo social', 'universidad san sebastian', 11.8, 550000, 2207300
+'contador auditor', 'universidad santo tomas', 12, 950000, 1670000
+'diseño grafico', 'universidad santo tomas', 11, 550000, 1991333
+'ingenieria comercial', 'universidad santo tomas', 14.6, 950000, 2208455
+'medicina veterinaria', 'universidad santo tomas', 16.3, 750000, 2710333
+'educacion basica', 'universidad santo tomas', 10.9, 450000, 1565625
+'psicologia', 'universidad santo tomas', 13.1, 750000, 2319579
+'relaciones publicas', 'universidad santo tomas', 11.8, 550000, 1814250
+'trabajo social', 'universidad santo tomas', 11.6, 550000, 1665444
+'arquitectura', 'universidad tecnica federico santa maria', 16.8, 950000, 3165000
+'construccion civil', 'universidad tecnica federico santa maria', 19.2, 1250000, 2910000
+'ingenieria civil electronica', 'universidad tecnica federico santa maria', 17.8, 1650000, 3472000
+'ingenieria civil en informatica', 'universidad tecnica federico santa maria', 16.2, 1450000, 3472000
+'ingenieria civil industrial', 'universidad tecnica federico santa maria', 14.6, 1850000, 3472000
+'ingenieria civil mecanica', 'universidad tecnica federico santa maria', 17.7, 1850000, 3472000
+'ingenieria civil quimica', 'universidad tecnica federico santa maria', 17.2, 1750000, 3472000
+'ingenieria civil', 'universidad tecnica federico santa maria', 21.1, 2600000, 3472000
+'ingenieria comercial', 'universidad tecnica federico santa maria', 14.4, 1550000, 3472000
+'ingenieria de ejecucion en prevencion de riesgos', 'universidad tecnica federico santa maria', 11.9, 950000, 2430000
+'ingenieria de ejecucion mecanica de procesos y mantenimiento industrial', 'universidad tecnica federico santa maria', 13.4, 1350000, 2518667
+'tecnico universitario en control de alimentos', 'universidad tecnica federico santa maria', 10.5, 450000, 1583000
+'tecnico universitario en computacion e informatica', 'universidad tecnica federico santa maria', 10.4, 850000, 1583000
+'tecnico universitario en construccion', 'universidad tecnica federico santa maria', 8.8, 650000, 1583000
+'tecnico universitario en electricidad', 'universidad tecnica federico santa maria', 10, 850000, 1583000
+'tecnico universitario en electronica', 'universidad tecnica federico santa maria', 10.2, 850000, 1583000
+'tecnico universitario en mecanica automotriz', 'universidad tecnica federico santa maria', 8.6, 850000, 1583000
+'tecnico universitario en mecanica industrial', 'universidad tecnica federico santa maria', 9.7, 850000, 1583000
+'tecnico universitario en prevencion de riesgos', 'universidad tecnica federico santa maria', 8.6, 650000, 1583000
+'tecnico universitario en proyecto de ingenieria', 'universidad tecnica federico santa maria', 10.4, 850000, 1583000
+'tecnico universitario en quimica', 'universidad tecnica federico santa maria', 9.9, 650000, 1583000
+'ingenieria en administracion de empresas mencion', 'universidad tecnologica de chile inacap', 9.7, 750000, 1380639
+'ingenieria en automatizacion y control industrial', 'universidad tecnologica de chile inacap', 10.3, 1450000, 1410786
+'ingenieria en informatica', 'universidad tecnologica de chile inacap', 10.2, 850000, 1400617
+'ingenieria en electricidad', 'universidad tecnologica de chile inacap', 11.1, 1450000, 1431000
+'pedagogia en artes musicales', 'universidad tecnologica de chile inacap', 10.6, 550000, 2360000
+'tecnologia en sonido', 'universidad tecnologica de chile inacap', 8.3, 550000, 2062000
+'trabajo social', 'universidad tecnologica de chile inacap', 10.2, 550000, 1386688
+'ingenieria en gestion turistica', 'universidad tecnologica metropolitana', 14, 650000, 2280991
+'arquitectura', 'universidad tecnologica metropolitana', 14.9, 850000, 2509339
+'bibliotecologia y documentacion', 'universidad tecnologica metropolitana', 12.9, 750000, 2151925
+'contador publico auditor', 'universidad tecnologica metropolitana', 14.3, 1150000, 2235371
+'ingenieria civil en computacion mencion informatica', 'universidad tecnologica metropolitana', 18.6, 1650000, 2443565
+'ingenieria civil industrial', 'universidad tecnologica metropolitana', 17.1, 1450000, 2443565
+'ingenieria comercial', 'universidad tecnologica metropolitana', 14.2, 1050000, 2443565
+'ingenieria en industria alimentaria', 'universidad tecnologica metropolitana', 19.5, 850000, 1940496
+'ingenieria en comercio internacional', 'universidad tecnologica metropolitana', 17.6, 950000, 2280991
+'ingenieria ejecucion informatica', 'universidad tecnologica metropolitana', 17, 1250000, 2443565
+'ingenieria en construccion', 'universidad tecnologica metropolitana', 11.6, 1050000, 2280991
+'ingenieria ejecucion en electronica', 'universidad tecnologica metropolitana', 20.9, 1450000, 2297745
+'ingenieria en geomensura y cartografia', 'universidad tecnologica metropolitana', 21, 950000, 2216458
+'ingenieria en prevencion de riesgos y medio ambiente', 'universidad tecnologica metropolitana', 13.8, 1050000, 2280991
+'ingenieria en quimica', 'universidad tecnologica metropolitana', 18.7, 1050000, 1890496
+'ingenieria ejecucion industrial', 'universidad tecnologica metropolitana', 13.8, 1250000, 2443565
+'ingenieria en mecanica', 'universidad tecnologica metropolitana', 17.1, 1250000, 2280991
+'pedagogia en educacion basica', 'universidad tecnologica metropolitana', 15.3, 550000, 999433
+'quimica industrial', 'universidad tecnologica metropolitana', 16.3, 650000, 2443565
+'dibujante proyectista', 'universidad tecnologica metropolitana', 10.9, 750000, 1742389
+'tecnico en ciencias criminalistica', 'universidad tecnologica metropolitana', 16.6, 550000, 1195133
+'trabajo social', 'universidad tecnologica metropolitana', 12.7, 750000, 2151925
+'ingenieria de ejecucion en informatica', 'universidad ucinf', 12, 1150000, 1488000
+'pedagogia en educacion basica', 'universidad ucinf', 11.6, 450000, 1337000
+'pedagogia en educacion parvularia', 'universidad ucinf', 11.2, 450000, 1256600
+'pedagogia en educacion diferencial', 'universidad ucinf', 10.7, 550000, 1478000
+'psicologia', 'universidad ucinf', 12.6, 750000, 1946000
+'analisis de sistemas', 'universidad ucinf', 9.5, 750000, 1055000
